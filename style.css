@@ -68,6 +68,20 @@ section {
     margin-bottom: 10px;
 }
 
+
+#objetivo p{
+    margin-bottom: 15px;
+}
+#redes-sociales{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+#redes-sociales img {
+    width: 40px;
+}
+
 .materia {
     width: 80%;
     height: 19rem;
