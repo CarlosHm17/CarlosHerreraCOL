@@ -44,10 +44,7 @@ main {
     justify-content: center; /* Centra los elementos verticalmente */
     height: 100%; /* O puedes especificar una altura fija si lo prefieres */
 }
-video {
-    background-color: #e9e9e9;
-    margin-top: 15px;
-}
+
 
 
 
